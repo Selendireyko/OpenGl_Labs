@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1545476785 source:c:\cygwin64\home\parabellum\opengl\ogl_lab_3\main.cpp
+	<GL\glut.h>
+	<GL\gl.h>
+	<GL\glu.h>
+	<GL\glaux.h>
+	<stdio.h>
+
+1545476785 
+
+1545989797 source:c:\users\parabellum\desktop\ogl_valera\main.cpp
+	<time.h>
+	<cstdlib>
+	<GLUT/GLUT.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1546015453 >
+
+1546015453 source:c:\users\selendireyko\downloads\ogl_valera\main.cpp
+	<time.h>
+	<cstdlib>
+	<GLUT/GLUT.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1546018717 source:/Users/Selendireyko/Desktop/OpenGL_Lab4/main.cpp
+	<time.h>
+	<cstdlib>
+	<GLUT/GLUT.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
